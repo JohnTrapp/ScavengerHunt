@@ -1,0 +1,9 @@
+name: ScavengerHunt
+main: com.johneyt54.scavengerhunt.ScavengerHunt
+version: 1.0
+author: johneyt54
+
+commands:
+    event:
+        description: The event plugin
+        usage: Type /event ? for help
